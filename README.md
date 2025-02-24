@@ -5,7 +5,7 @@
   Delete: Remove employee records from the database.
   Aggregate: Perform aggregate functions like sum, average, minimum, maximum salary, and total record count.
 
-# https://github.com/user-attachments/assets/02a9f1f4-6997-40b4-aa0a-6349773601bc
+  https://github.com/user-attachments/assets/02a9f1f4-6997-40b4-aa0a-6349773601bc
   
   # Technologies:
   LinkedList for data management.
